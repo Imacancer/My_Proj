@@ -1,0 +1,5 @@
+#ignore lahat ng .vscode
+
+.vscode/*
+.vs/*
+.vscode/settings.json
